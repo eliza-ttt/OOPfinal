@@ -1,6 +1,6 @@
 # OOP
 # Final JavaFx Project with SceneBuilder && MySQL
-Final Database Management System project on IntelliJ IDEA
+# Final Database Management System project on IntelliJ IDEA
 <br>It was created by Eliza Tursunbekova
 <br><br><br>
 If we write not recorded users information you can see this<br>
@@ -10,3 +10,6 @@ Then we registrated<br>
 ![alt](https://sun9-52.userapi.com/impg/4eMvHYAcZ95Eo65eywAzFBCx3Z_n_oCTq049iA/E9O43VCsy8M.jpg?size=1076x668&quality=96&sign=c25e02c52e801fdfbfe563208f51e476&type=album)
 <br><br>
 ![alt](https://sun9-79.userapi.com/impg/i7yOAxYXR8oTUq_jfdkHdkzpLCcioacY9AdFHQ/rZ-zlfU3dNQ.jpg?size=1069x674&quality=96&sign=1df5601b294e67a918d3c43be1695487&type=album)
+<br><br>
+If we will try to SignUp with empty criterias 
+![alt](https://sun9-67.userapi.com/impg/tamJStJ0Kq-FDmqhyQKAEiYJdJotnR86_lLQVg/oVZ628V-F9Q.jpg?size=1255x698&quality=96&sign=521a647778d10719fcd6f83b6a5f832b&type=album)
