@@ -12,4 +12,4 @@ Then we registrated<br>
 ![alt](https://sun9-79.userapi.com/impg/i7yOAxYXR8oTUq_jfdkHdkzpLCcioacY9AdFHQ/rZ-zlfU3dNQ.jpg?size=1069x674&quality=96&sign=1df5601b294e67a918d3c43be1695487&type=album)
 <br><br>
 If we will try to SignUp with empty criterias 
-![alt](https://sun9-67.userapi.com/impg/tamJStJ0Kq-FDmqhyQKAEiYJdJotnR86_lLQVg/oVZ628V-F9Q.jpg?size=1255x698&quality=96&sign=521a647778d10719fcd6f83b6a5f832b&type=album)
+![alt](https://sun9-60.userapi.com/impg/U3-CRLTaao4BTqX1fPRmeY0Tpdw-PFks7Lw37A/DuS_Yy7MOlI.jpg?size=1223x646&quality=96&sign=ba8d96b42dde459c759a5ea681e09070&type=album)
