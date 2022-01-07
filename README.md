@@ -2,8 +2,15 @@
 # Final JavaFx Project with SceneBuilder && MySQL
 # Final Database Management System project on IntelliJ IDEA
 <br>It was created by Eliza Tursunbekova
-<br><br>Link to the video feedbacks https://drive.google.com/drive/folders/10QE2hvPWkpfjQCJQiHCKvV1-E7JaCMlq?usp=sharing<br>
-If we write not recorded users information you can see this<br><br>
+<br>
+<br>
+Link to the Youtube video https://youtu.be/3oHP2nraZ2g
+<br>
+<br>
+Link to the video feedbacks https://drive.google.com/drive/folders/10QE2hvPWkpfjQCJQiHCKvV1-E7JaCMlq?usp=sharing<br>
+If we write not recorded users information you can see this
+<br>
+<br>
 ![alt](https://sun9-52.userapi.com/impg/koz4_iEYzjb71K3s-ROf4tfCu15HXyuFx6cf9Q/0cS4MkjhfNo.jpg?size=1346x673&quality=96&sign=edc899f74a49f78e4e3d6ddc9c920d64&type=album)
 <br><br>
 Then we registrated<br><br>
