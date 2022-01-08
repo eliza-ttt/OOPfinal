@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.LoginController">
+   <children>
+      <AnchorPane prefHeight="105.0" prefWidth="600.0" style="-fx-background-color: grey;">
+         <children>
+            <ImageView fitHeight="108.0" fitWidth="175.0" layoutX="247.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Logo.png" />
+               </image></ImageView>
+         </children></AnchorPane>
+      <Label fx:id="label_student_from" layoutX="118.0" layoutY="223.0" text="Join students from your too!">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_logout" layoutX="259.0" layoutY="284.0" mnemonicParsing="false" style="-fx-background-color: #272169; -fx-cursor: hand;" text="Logout" textFill="WHITE">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="17.0" />
+         </font>
+      </Button>
+      <Label fx:id="label_welcome" layoutX="200.0" layoutY="168.0" text="Welcome!">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
