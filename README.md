@@ -1,7 +1,7 @@
-# OOP
+# OOP GROUP PROJECT
 # Final JavaFx Project with SceneBuilder && MySQL
 # Final Database Management System project on IntelliJ IDEA
-<br>It was created by Eliza Tursunbekova
+<br>It was created by Eliza Tursunbekova&&Samara Beknazarova
 <br>
 <br>
 Link to the Youtube video https://youtu.be/3oHP2nraZ2g
