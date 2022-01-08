@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="182.0" style="-fx-background-color: grey;">
+         <children>
+            <ImageView fitHeight="145.0" fitWidth="182.0" layoutX="16.0" layoutY="127.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Logo.png" />
+               </image></ImageView>
+            <Label layoutX="43.0" layoutY="327.0" text="alatoo.edu.kg" textFill="#444343e3">
+               <font>
+                  <Font size="16.0" />
+               </font></Label>
+            <Label layoutX="59.0" layoutY="357.0" prefHeight="18.0" prefWidth="62.0" text="0(700)700700" textFill="#444343">
+               <font>
+                  <Font size="10.0" />
+               </font></Label>
+            <Label layoutX="29.0" layoutY="340.0" text="ocs.alatoo.edu.kg" textFill="#424242ea">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="400.0" prefWidth="429.0">
+         <children>
+            <Label layoutX="91.0" layoutY="44.0" text="STUDENTS COMMUNITY" textAlignment="CENTER">
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="22.0" />
+               </font>
+            </Label>
+            <Label layoutX="31.0" layoutY="138.0" text="Username" textAlignment="CENTER">
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="18.0" />
+               </font></Label>
+            <Label layoutX="33.0" layoutY="186.0" text="Password" textAlignment="CENTER">
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="18.0" />
+               </font></Label>
+            <TextField fx:id="tf_username" layoutX="127.0" layoutY="138.0" prefHeight="26.0" prefWidth="266.0" />
+            <TextField fx:id="tf_password" layoutX="127.0" layoutY="187.0" prefHeight="26.0" prefWidth="266.0" />
+            <Button fx:id="button_login" layoutX="140.0" layoutY="294.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="143.0" style="-fx-background-color: #272169; -fx-cursor: hand;" text="Login" textFill="WHITE">
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="18.0" />
+               </font>
+            </Button>
+            <Label layoutX="108.0" layoutY="350.0" text="Gonna join?" />
+            <Button fx:id="button_signup" layoutX="247.0" layoutY="345.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="72.0" style="-fx-background-color: transparent; -fx-cursor: hand;" text="Sign Up!" textFill="#322c87" underline="true">
+               <font>
+                  <Font name="Arial Rounded MT Bold" size="13.0" />
+               </font>
+               <padding>
+                  <Insets left="10.0" />
+               </padding>
+            </Button>
+         </children></AnchorPane>
+   </children>
+</HBox>
